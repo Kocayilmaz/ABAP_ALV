@@ -17,10 +17,7 @@ This ABAP program is designed to display a list using ALV (ABAP List Viewer) in 
 - **FORM user_command 👨‍💻:** This form handles user commands (e.g., save). In this example, when the user performs the "SAVE" action, the data is saved to the `ZFI_CKML_ACD_V1` table.
 
 In this way, the ABAP program collects user input, retrieves data from the database, creates an ALV screen, and allows the user to view and interact with the data. 🎉
-
----
 ___
----
 
 # ABAP ALV Programı 🚀
 
